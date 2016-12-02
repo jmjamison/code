@@ -1,0 +1,11 @@
+// LeapYr
+@cid "jmj1";
+@ver "0.1";
+@category "Test";
+@name "LeapYr";
+@dbname "LeapYr";
+
+// Hello, World
+main() {
+   alert("Hello, World");
+}
